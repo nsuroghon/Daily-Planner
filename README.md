@@ -12,4 +12,6 @@ This Work Day Scheduler acts as a simple calendar app that assists in structurin
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
 
-## View
+## Visit
+
+[VIEW WEBPAGE](https://nsuroghon.github.io/Javascript-Quiz/)

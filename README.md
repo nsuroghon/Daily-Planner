@@ -14,4 +14,4 @@ This Work Day Scheduler acts as a simple calendar app that assists in structurin
 
 ## Visit
 
-[VIEW WEBPAGE](https://nsuroghon.github.io/Javascript-Quiz/)
+[VIEW WEBPAGE](https://nsuroghon.github.io/Daily-Planner/)
